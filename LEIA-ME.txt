@@ -1,0 +1,10 @@
+Paulista 24/7 · Laboratório de Criação com IA
+Site estático: index.html + pasta assets (imagens, vídeos e o relatório em PDF).
+
+Como usar
+- Para ver no computador: abra index.html no navegador.
+- Para publicar: envie a pasta inteira (index.html e assets) para qualquer hospedagem de site estático
+  (Netlify, GitHub Pages, Vercel, servidor da escola etc.). Mantenha a estrutura de pastas.
+- Idiomas: botões PT / EN / FR no topo.
+- Trocar o relatório: substitua assets/Relatorio_Geral_Paulista_24-7.pdf pelo arquivo novo, com o mesmo nome.
+- Vídeos: ficam em assets/media (*.mp4).
